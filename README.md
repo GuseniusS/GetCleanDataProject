@@ -29,7 +29,7 @@ This README describes how function "run_analysis* post processess study data des
 ###Data Selection
 The original Samsung dataset contained 561 parameters. Based on the project instructions *ref [2]*, this data was down selected to represent only the measurements on means and standard deviations.  
 
-Based on the provided Samsung study description it was dertermined that that only the mean and standard deviation parameters for accelerometer measurements were relevant to this project.  All other parameters were neglected.
+This study was entitled "Human Activity Recognition Using Smartphones".  Based on a decription of the study it was decided that only the mean and standard deviation parameters for accelerometer measurements were relevant to "recognizing human activities".  Other "averaging" parameters were neglected as they seemed to describe the signal, rather than the activity.
 
 **Retained parameters:**
 
